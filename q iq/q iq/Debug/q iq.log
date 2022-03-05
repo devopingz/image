@@ -1,0 +1,9 @@
+﻿  소스.cpp
+c:\users\user\desktop\코딩\q iq\q iq\소스.cpp(71): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\q iq\q iq\소스.cpp(72): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\q iq\q iq\소스.cpp(102): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\q iq\q iq\소스.cpp(103): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\q iq\q iq\소스.cpp(121): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\q iq\q iq\소스.cpp(138): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  q iq.vcxproj -> C:\Users\USER\Desktop\코딩\q iq\Debug\q iq.exe
+  q iq.vcxproj -> C:\Users\USER\Desktop\코딩\q iq\Debug\q iq.pdb (Partial PDB)
